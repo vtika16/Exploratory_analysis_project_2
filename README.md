@@ -1,10 +1,5 @@
 # Exploratory_analysis_project_2
 
-Exploratory Data Analysis Project
-========================================================
-
-#Assignment 2
-
 Introduction
 -------------
 
